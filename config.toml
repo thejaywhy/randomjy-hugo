@@ -1,0 +1,35 @@
+baseurl = "http://randomjy.com/"
+languageCode = "en-us"
+title = "random_jy"
+theme = "hyde-x"
+copyright = "Jon Young"
+
+[Author]
+    name = "Jon Young"
+
+[Permalinks]
+    blog = "/:year/:month/:day/:filename/"
+
+[Taxonomies]
+    tag = "family, hacker, diy"
+    category = "family, hacker, diy"
+
+[params]
+    # Used when a given page doesn't set its own.
+    defaultDescription = "Random thoughts on random things from JY"
+
+    # Changes sidebar background and link/accent colours.
+    # See below for more colour options.
+    # This also works: "theme-base-08 layout-reverse", or just "layout-reverse".
+    theme = "theme-base-08"
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "sunburst"
+
+    # Displays under the author name in the sidebar, keep it short.
+    tagline = "family man, coder, diy'r"
+
+    twitter = "https://twitter.com/random_jyoung"
+    github = "https://github.com/thejaywhy"
+    linkedin = "https://www.linkedin.com/in/jonryoung"

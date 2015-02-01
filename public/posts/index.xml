@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on random_jy</title>
+    <link>http://randomjy.com/posts/</link>
+    <description>Recent content in Posts on random_jy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    
+    <copyright>Jon Young</copyright>
+    <lastBuildDate>Sat, 31 Jan 2015 19:57:16 EST</lastBuildDate>
+    <atom:link href="http://randomjy.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Resolutions for 2015</title>
+      <link>http://randomjy.com/posts/resolutions-for-2015/</link>
+      <pubDate>Sat, 31 Jan 2015 19:57:16 EST</pubDate>
+      
+      <guid>http://randomjy.com/posts/resolutions-for-2015/</guid>
+      <description>
+
+&lt;p&gt;Now that it is February, time to make some goals for myself in 2015.&lt;/p&gt;
+
+&lt;h2 id=&#34;be-an-even-awesomer-husband-father:87223ae63adbc1cf20a73dc9414eb665&#34;&gt;Be an even awesomer Husband &amp;amp; Father&lt;/h2&gt;
+
+&lt;p&gt;I like to think I&amp;rsquo;m doing a pretty decent job at this already, but there&amp;rsquo;s always room for improvement. And our family will be expanding from 3 to 4 in 2015!&lt;/p&gt;
+
+&lt;h2 id=&#34;make-a-blog-and-keep-writing-for-it:87223ae63adbc1cf20a73dc9414eb665&#34;&gt;Make a blog&amp;hellip; and keep writing for it&lt;/h2&gt;
+
+&lt;p&gt;Well, you&amp;rsquo;re here, so I&amp;rsquo;m doing pretty well so far. Of course, we&amp;rsquo;ll see if I can keep going.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve written what I&amp;rsquo;ve got so far using &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;. It&amp;rsquo;s a pretty sweet static site generator written in &lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;. I like that I can write everything in markdown. After using github for a couple of years, I have problems writing in anything other than Markdown.&lt;/p&gt;
+
+&lt;h2 id=&#34;read-2-books-a-month:87223ae63adbc1cf20a73dc9414eb665&#34;&gt;Read 2 Books a Month&lt;/h2&gt;
+
+&lt;p&gt;Last year I averaged maybe 1 book a month. I read mostly fiction in 2014. In 2015 I&amp;rsquo;m looking to read both fiction and non-fiction. Ideally one of each type every month. Not sure how the other goals will affect this one. I plan to make time to read in the mornings, after I wake up. Hopefully the house will still be quiet at that point.&lt;/p&gt;
+
+&lt;h2 id=&#34;re-implement-this-blog:87223ae63adbc1cf20a73dc9414eb665&#34;&gt;Re-Implement this blog&lt;/h2&gt;
+
+&lt;p&gt;This is definitely a stretch goal, but I&amp;rsquo;d like to try re-implementing this blog using various frameworks:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;rails (no experience)&lt;/li&gt;
+&lt;li&gt;django (some experience from work stuff)&lt;/li&gt;
+&lt;li&gt;elixir (no experience)&lt;/li&gt;
+&lt;li&gt;go &amp;amp; its magnificent stdlib (some experience)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Ideally, I&amp;rsquo;ll write the blog apps to intake the same markdown used by Hugo. And then take advantage of various CI/CD pipelines to deploy new posts too all the apps at the same time.&lt;/p&gt;
+
+&lt;p&gt;Then the log term plan becomes use DNS tricks to randomly send users to a different destination. They&amp;rsquo;ll only know what type of framework they are seeing by a &amp;ldquo;bug&amp;rdquo; in the footer. Sounds neat, right?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
