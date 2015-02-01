@@ -10,12 +10,12 @@
   <title>Resolutions for 2015 &middot; Jon Young</title>
 
   
-  <link rel="stylesheet" href="http://randomjy.com/css/poole.css">
-  <link rel="stylesheet" href="http://randomjy.com/css/hyde.css">
-  <link rel="stylesheet" href="http://randomjy.com/css/poole-overrides.css">
-  <link rel="stylesheet" href="http://randomjy.com/css/hyde-overrides.css">
-  <link rel="stylesheet" href="http://randomjy.com/css/hyde-x.css">
-  <link rel="stylesheet" href="http://randomjy.com/css/highlight/sunburst.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/poole.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/hyde.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/hyde-x.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/highlight/sunburst.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   
@@ -46,15 +46,15 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <h1 class="brand"><a href="http://randomjy.com">random_jy</a></h1>
+      <h1 class="brand"><a href="http://localhost:1313">random_jy</a></h1>
       <p class="lead">
-      An elegant open source and mobile first theme for <a href="http://hugo.spf13.com">hugo</a> made by <a href="http://twitter.com/mdo">@mdo</a>. Originally made for Jekyll.
+       family man, hacker, diy&#39;r 
       </p>
     </div>
 
     <ul class="sidebar-nav">
-      <li><a href="http://randomjy.com/posts">Posts</a></li>
-      <li><a href="http://randomjy.com/about">About</a></li>
+      <li><a href="http://localhost:1313/posts">Posts</a></li>
+      <li><a href="http://localhost:1313/about">About</a></li>
     </ul>
 
     <br>
@@ -113,8 +113,11 @@
 
   </div>
 </div>
-<script src="http://randomjy.com/js/highlight.pack.js"></script>
+<script src="http://localhost:1313/js/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 
-</body>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>

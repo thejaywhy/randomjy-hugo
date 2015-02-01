@@ -2,14 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://randomjy.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2015-01-31T19:57:16-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://randomjy.com/posts/resolutions-for-2015/</loc>
+    <loc>http://localhost:1313/posts/resolutions-for-2015/</loc>
     <lastmod>2015-01-31T19:57:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2015-01-31T19:54:58-05:00</lastmod>
   </url>
   
 </urlset>

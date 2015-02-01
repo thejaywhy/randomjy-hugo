@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>random_jy</title>
-    <link>http://randomjy.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on random_jy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,14 +10,14 @@
     
     <copyright>Jon Young</copyright>
     <lastBuildDate>Sat, 31 Jan 2015 19:57:16 EST</lastBuildDate>
-    <atom:link href="http://randomjy.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Resolutions for 2015</title>
-      <link>http://randomjy.com/posts/resolutions-for-2015/</link>
+      <link>http://localhost:1313/posts/resolutions-for-2015/</link>
       <pubDate>Sat, 31 Jan 2015 19:57:16 EST</pubDate>
       
-      <guid>http://randomjy.com/posts/resolutions-for-2015/</guid>
+      <guid>http://localhost:1313/posts/resolutions-for-2015/</guid>
       <description>
 
 &lt;p&gt;Now that it is February, time to make some goals for myself in 2015.&lt;/p&gt;
@@ -50,6 +50,40 @@
 &lt;p&gt;Ideally, I&amp;rsquo;ll write the blog apps to intake the same markdown used by Hugo. And then take advantage of various CI/CD pipelines to deploy new posts too all the apps at the same time.&lt;/p&gt;
 
 &lt;p&gt;Then the log term plan becomes use DNS tricks to randomly send users to a different destination. They&amp;rsquo;ll only know what type of framework they are seeing by a &amp;ldquo;bug&amp;rdquo; in the footer. Sounds neat, right?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>random_jy --help</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 31 Jan 2015 19:54:58 EST</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>
+
+&lt;h3 id=&#34;person:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Person&lt;/h3&gt;
+
+&lt;p&gt;What&amp;rsquo;s up! Who am I? Why am I subjecting you to my random thoughts? Because we&amp;rsquo;re on the Internet, and I can.&lt;/p&gt;
+
+&lt;p&gt;First off I&amp;rsquo;m married with 1 kid already and another on the way. My family is pretty awesome.&lt;/p&gt;
+
+&lt;p&gt;I believe in doing as much as I can myself, so I like to build or improve things around our house. Plus, nothing will make you appreciate just how lucky you are more than doing manual labor. I dug dirt in the summers before college, it definitely motivated me to become an Engineer.&lt;/p&gt;
+
+&lt;p&gt;In college I studied Computer Engineering &amp;amp; Software Engineering. After I worked in Embedded Systems, mostly coding up DSP type stuff in C. Although there were some deviations, including Java and Ada. Yes, Ada, and I liked it.&lt;/p&gt;
+
+&lt;p&gt;Now a days I work at &lt;a href=&#34;https//dyn.com&#34;&gt;Dyn&lt;/a&gt; working with Chef, Python, and Varnish.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m always looking to learn new things and improve on what I already know. This blog will hopefully capture that never ending journey.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;d like to contact me, &lt;a href=&#34;https://twitter.com/random_jyoung&#34;&gt;Twitter&lt;/a&gt; or &lt;a href=&#34;https://linkedin.com/in/jonryoung/&#34;&gt;LinkedIn&lt;/a&gt; would be best, Thank you!&lt;/p&gt;
+
+&lt;h3 id=&#34;tech:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Tech&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;powered by &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; (and isn&amp;rsquo;t it awesome?)&lt;/li&gt;
+&lt;li&gt;Base theme is &lt;a href=&#34;https://github.com/zyro/hyde-x&#34;&gt;Hyde-X&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Further theme inspriation from &lt;a href=&#34;http://npf.io/&#34;&gt;npf.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
