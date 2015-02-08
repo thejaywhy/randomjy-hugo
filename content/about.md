@@ -1,7 +1,9 @@
 +++
 date = "2015-01-31T19:54:58-05:00"
-draft = true
 title = "random_jy --help"
+categories = []
+description = ""
+keywords = ["about"]
 
 +++
 
