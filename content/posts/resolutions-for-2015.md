@@ -5,7 +5,7 @@ description = "Now that it is February, time to make some goals for myself in 20
 
 +++
 
-Now that it is February, time to make some goals for myself in 2015.
+Now that it is February, time to make some goals for myself in 2015. <!--more-->
 
 ## Be an even awesomer Husband & Father
 I like to think I'm doing a pretty decent job at this already, but there's always room for improvement. And our family will be expanding from 3 to 4 in 2015!

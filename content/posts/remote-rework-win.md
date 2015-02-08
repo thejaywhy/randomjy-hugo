@@ -1,13 +1,13 @@
 +++
 categories = []
 date = "2015-02-07T20:02:07-05:00"
-description = ""
+description = "A quick summary of the books I've read this year, so far."
 keywords = ["books", "remote", "productivity"]
 title = "January/February 2015 Reading List"
 
 +++
 
-One of my goals for 2015 is to read 2 books a month. I made this goal towards the end of the January, so I'm pretty pleased to say I got one book done in January, and _two_ in the first seven days of February. Now I just need to finish another one to get my average back on track. I've been getting copies of these books from my local library. The great thing about my library is that it is a part of a system of libraries that make it easy to borrow books from any library in the area. It really expands the number of books I have at my disposal.
+One of my goals for 2015 is to read 2 books a month.  I made this goal towards the end of the January, so I'm pretty pleased to say I got one book done in January, and _two_ in the first seven days of February. Now I just need to finish another one to get my average back on track. I've been getting copies of these books from my local library. The great thing about my library is that it is a part of a system of libraries that make it easy to borrow books from any library in the area. It really expands the number of books I have at my disposal.
 
 ### Rework & Remote
 In January I read [Rework] (https://37signals.com/rework), and followed it up with [Remote] (https://37signals.com/remote), both by the founders of [37signals] (https://37signals.com) Both of these books are a pretty easy read, a collection of short essays more than anything. Also each essay comes with a nifty illustration. My favorite line from either book is 
