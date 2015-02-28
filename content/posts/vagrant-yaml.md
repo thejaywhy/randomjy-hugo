@@ -2,8 +2,9 @@
 categories = []
 date = "2015-02-28T14:16:19-05:00"
 description = "How to modify your Vagrantfile to pull configuration data from a YAML file"
-keywords = ["automation", "programming"]
-title = "Store Vagrant config data in a YAML file"
+keywords = ["automation", "programming", "vagrant"]
+title = "Storing Vagrantfile configuration in a YAML file"
+draft = true
 
 +++
 Have you heard of [Vagrant] (https://www.vagrantup.com/)? It's a pretty awesome way to manage VMs, containers, or even cloud instances. You can use the `Vagrantfile` to set up and configure the instance, check it into git, and share! Now you can rely on everyone to have the same starting point. Makes setting up development environments a breeze. And today I'd like to share with you something I've found to make it even more powerful.
