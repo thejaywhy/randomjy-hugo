@@ -1,13 +1,15 @@
 +++
 date = "2015-01-31T19:54:58-05:00"
-title = "random_jy --help"
+title = "About"
 categories = []
-description = ""
+description = "random_jy --help"
 keywords = ["about"]
+menu = "main"
 
 +++
 
 ### Person
+
 What's up! Who am I? Why am I subjecting you to my random thoughts? Because we're on the Internet, and I can.
 
 First off I'm married with 1 kid already and another on the way. My family is pretty awesome.
