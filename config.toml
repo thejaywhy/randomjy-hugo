@@ -30,6 +30,9 @@ copyright = "Jon Young"
     # Displays under the author name in the sidebar, keep it short.
     tagline = "family man, coder, diy'r"
 
+    # integrations
+    googleAnalytics = "UA-60216723-1"
+
     twitter = "https://twitter.com/random_jyoung"
     github = "https://github.com/thejaywhy"
     linkedin = "https://www.linkedin.com/in/jonryoung"
