@@ -1,4 +1,4 @@
-aseURL = "http://randomjy.com/"
+baseURL = "http://randomjy.com/"
 languageCode = "en-us"
 title = "random_jy"
 theme = "hyde-x"
