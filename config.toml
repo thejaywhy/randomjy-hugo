@@ -1,8 +1,13 @@
-baseurl = "http://randomjy.com/"
+aseURL = "http://randomjy.com/"
 languageCode = "en-us"
 title = "random_jy"
 theme = "hyde-x"
 copyright = "Jon Young"
+
+contentdir = "content"
+layoutdir = "themes/hyde-x/layouts"
+staticdir = "static"
+publishdir = "public"
 
 [Author]
     name = "Jon Young"
