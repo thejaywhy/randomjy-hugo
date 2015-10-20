@@ -3,7 +3,7 @@ categories = []
 date = "2015-10-19T21:39:35-04:00"
 description = ""
 keywords = ["book"]
-title = "name of the wind"
+title = "The Name of the Wind"
 
 +++
 [The Name of the Wind](http://www.amazon.com/The-Name-Wind-Kingkiller-Chronicle/dp/0756404746) by Patrick Rothfuss is the first of a 3 part fantasy series. The book is the "Day One" telling of a three day story by the books main character.
